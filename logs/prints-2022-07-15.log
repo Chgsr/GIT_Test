@@ -1,0 +1,7 @@
+19:45:48.629 [main] INFO  com.Tests.PracticePage - Chrome Browser got Initiated
+19:45:52.276 [main] INFO  com.Tests.PracticePage - Navigated to Rahulshetty Academy Practice Page
+19:45:52.278 [main] DEBUG com.Tests.PracticePage - Clicking on Option 1
+19:45:52.657 [main] INFO  com.Tests.PracticePage - Selected Option 1
+19:45:52.700 [main] INFO  com.Tests.PracticePage - Got Text of the selected OptionOption1
+19:45:52.833 [main] INFO  com.Tests.PracticePage - Clicked on Dropdown
+19:45:52.916 [main] INFO  com.Tests.PracticePage - selected Option1 from Dropdown
